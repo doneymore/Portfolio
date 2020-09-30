@@ -1,0 +1,22 @@
+.items {
+    background-color: bisque;
+    color: darkslategray;
+    text-transform: uppercase;
+    text-align: center;
+    
+
+}
+
+#list li {
+   
+    border: 1px solid grey;
+    
+    
+}
+#list:nth-child(odd){
+    background-color: darkgrey;
+    color: aqua;
+}
+li {
+    text-decoration: none;
+}

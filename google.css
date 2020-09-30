@@ -1,0 +1,16 @@
+.font {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.font form input {
+   width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    
+}
+.type {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

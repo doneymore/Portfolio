@@ -1,0 +1,19 @@
+#head {
+    background: green;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+li {
+    text-decoration: none;
+    border-bottom: 1px solid black;
+}
+
+
+#trep {
+    width: 400px;
+    height: 200px;
+    background-color: gray;
+    border: 1px solid black;
+}

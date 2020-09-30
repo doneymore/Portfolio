@@ -1,0 +1,59 @@
+body {
+					background-color: #D6FAFF;
+					margin: 10px;
+					}
+					#header {
+						text-transform: uppercase;
+						text-align: center;
+						background-color: #DFF7FF;
+						color: #80888A;
+						font-family:  sans-serif;
+						font-weight: bold;
+						}
+						#format {
+							color: #161D10;
+							text-transform: capitalize;
+							word-spacing: 0.2em;
+							line-height: 1.3em;
+							margin: auto;
+							justify-content: center;
+							align-items: center;
+						
+							
+							}
+							#format  li {
+								list-style-type: none;
+								}
+								
+							#format q {
+								font-family: Times;
+								font-weight: bold;
+								}
+								#format strong {
+									font-family: times;
+									font-weight: bold;
+									text-transform: uppercase;
+									}
+									#foot {
+										font-size: 10px;
+										text-align: center;
+										padding: 15px;
+										font-family: times;
+										}
+										#foot a {
+											text-decoration: none;
+											color: #F00014;
+											}
+											#foot:hover {
+												background-color: white;
+												color: coral;
+												}
+												#imag {
+													border-radius: 50%;
+													
+													}
+													figcaption {
+														font-family: times;
+														text-transform: uppercase;
+														font-weight: 500px;
+														}

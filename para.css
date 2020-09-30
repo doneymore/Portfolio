@@ -1,0 +1,48 @@
+body {
+		margin: 0;
+		padding: 0;
+		
+		}
+		
+			.imgs img:hover {
+				transition: width 5s linear 1s;
+				}
+				
+				
+		.format {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-color: #000000;
+			color: #E7E9E5;
+			word-spacing: 0.3em;
+			line-height: 1.4em;
+			font-family: times;
+			padding: 10px;
+			
+			}
+			.format-1 {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				background-color: #FBFFF7;
+				color: #80827F;
+				word-spacing: 0.3em;
+				line-height: 1.5em;
+				font-family: times;
+				padding: 10px;
+				text-transform: capitalize;
+				}
+				.format-2 {
+					display: flex;
+				justify-content: center;
+				align-items: center;
+				background-color: #FEFEFF;
+				color: #80827F;
+				word-spacing: 0.3em;
+				line-height: 1.5em;
+				font-family: times;
+				padding: 10px;
+				text-transform: capitalize;
+				}
+	

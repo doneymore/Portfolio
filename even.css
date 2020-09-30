@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: crimson;
+    color: aliceblue;
+    
+}
+@media screen and (max-width: 1200px;) and (min-width: 768px;){
+    background: black;
+}
+
+
+.container {
+    display: flex;
+    border: 1px solid gray;
+    padding: 10px;
+    align-items: flex-end;
+    align-items: stretch;
+    /*flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.para1 {
+flex:3;
+}
+
+.para2 {
+flex: 4;
+}
+.para3 {
+flex: 3;
+}
+
+
+
+
+@keyframes demp {
+    from {right: 0px;}
+    to{left: 200px;}
+}
+

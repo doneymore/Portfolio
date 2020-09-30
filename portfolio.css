@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+/*divnav li a {
+    display: inline-block;
+    background-color: #9cd5cf; 
+    top: 0;
+    padding: 70px;
+    width: 150px;
+    text-decoration: none;
+    color: #000;
+}*/
+.ttnn {
+    height: 380px;
+    background-image: url("./UBA.jpg");
+    background-size: contain;
+    margin-top: -30px;
+}
+.about {
+    min-height: 380px;
+    background-color: beige;
+    color: dimgrey;
+    margin-top: -30px;
+    text-align: center;
+}
+.skill {
+    min-height: 380px;
+    background-color: beige;
+    color: #000;
+    margin-top: -30px;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.skill li {
+    list-style-type: none;
+}
+.trip {
+    min-height: 300px;
+    background-color:beige;;
+    color: black;
+    margin-top: -30px;
+    text-align: center;
+}
+.box2 img {
+    float: left;
+}
